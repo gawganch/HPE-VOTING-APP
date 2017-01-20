@@ -1,4 +1,4 @@
-![HPE-DOCKER LEARNING LOGO](hpe-docker-learning.png | width=300)
+![HPE-DOCKER LEARNING LOGO](hpe-docker-learning.png)
 
 Getting started
 ---------------
