@@ -1,10 +1,13 @@
-Instavote (from Docker)
+![HPE-DOCKER LEARNING LOGO](hpe-docker-learning.png)
+
+HPE VOTING APP
 =========
+
 
 Getting started
 ---------------
 
-HPE Version to demonstrate a micro-services App with Docker.
+HPE Version (based on "Docker-voting-app") to demonstrate a micro-services App with Docker.
 
 Run in this directory:
 
@@ -22,4 +25,3 @@ Architecture
 * A .NET worker which consumes votes and stores them in…
 * A Postgres database backed by a Docker volume
 * A Node.js webapp which shows the results of the voting in real time
-
