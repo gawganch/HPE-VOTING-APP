@@ -1,10 +1,10 @@
-Instavote
+Instavote (from Docker)
 =========
 
 Getting started
 ---------------
 
-Download [Docker for Mac or Windows](https://www.docker.com).
+HPE Version to demonstrate a micro-services App with Docker.
 
 Run in this directory:
 
