@@ -25,11 +25,11 @@ body{
 }
 
 #background-stats-1{
-  background-color: #2196f3;
+  background-color: black;
 }
 
 #background-stats-2{
-  background-color: #00cbca;
+  background-color:#1bb388;
 }
 
 #content-container{
@@ -64,8 +64,8 @@ body{
   vertical-align:middle;
   font-size:40px;
   font-weight: 600;
-  width: 450px;
-  height: 200px;
+  width: 550px;
+  height: 300px;
 }
 #choice a{
   text-decoration:none;
@@ -89,12 +89,12 @@ body{
 }
 
 #choice .choice.dogs{
-  color: #00cbca;
+  color: #1bb388;
   float: right;
 }
 
 #choice .choice.cats{
-  color: #2196f3;
+  color: black;
   float: left;
 }
 #background-stats{
@@ -104,7 +104,7 @@ body{
   position:absolute;
 }
 #background-stats div{
-  transition: width 400ms ease-in-out;
+  transition: width 500ms ease-in-out;
   display:inline-block;
   margin-bottom:-4px;
   width:50%;
