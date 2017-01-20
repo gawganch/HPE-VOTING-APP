@@ -1,8 +1,4 @@
-![HPE-DOCKER LEARNING LOGO](hpe-docker-learning.png)
-
-HPE VOTING APP
-=========
-
+![HPE-DOCKER LEARNING LOGO](hpe-docker-learning.png | width=300)
 
 Getting started
 ---------------
@@ -25,3 +21,9 @@ Architecture
 * A .NET worker which consumes votes and stores them in…
 * A Postgres database backed by a Docker volume
 * A Node.js webapp which shows the results of the voting in real time
+
+Customize it!
+-----
+
+* Edit vote/app.py
+* Edit result/views/index.html
