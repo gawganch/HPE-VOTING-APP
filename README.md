@@ -1,10 +1,9 @@
-Instavote
-=========
+![HPE-DOCKER LEARNING LOGO](hpe-docker-learning.png)
 
 Getting started
 ---------------
 
-Download [Docker for Mac or Windows](https://www.docker.com).
+HPE Version (based on "Docker-voting-app") to demonstrate a micro-services App with Docker.
 
 Run in this directory:
 
@@ -23,3 +22,8 @@ Architecture
 * A Postgres database backed by a Docker volume
 * A Node.js webapp which shows the results of the voting in real time
 
+Customize it!
+-----
+
+* Edit vote/app.py
+* Edit result/views/index.html
