@@ -1,4 +1,4 @@
-version: "2"
+version: "3"
 
 services:
   vote:
@@ -25,7 +25,9 @@ services:
       - back-tier
 
   worker:
-    build: ./worker/Dockerfile.j
+    build:
+      context: ./worker
+      dockerfile: Dockerfile.j
     networks:
       - back-tier
 
